@@ -1,0 +1,6 @@
+donorUser,123123,Donor
+adminUser,123123,SystemAdministrator
+volunteerUser,123123,Volunteer
+indigentUser,123123,IndigentPerson
+coordinatorUser,123123,OperationCoordinator
+indigent2User,123123,IndigentPerson

@@ -1,0 +1,6 @@
+indigentUser,Yasin,YILDIRIM,21,Student,$750,7,2,Highschool,Scheduled on 2024-12-12
+indigentUser,Yasin,yldrm,61,Engineer,$960,5,2,Graduate,Pending
+indigentUser,asd,asd,asd,asda,fagda,3,1,College,Pending
+indigentUser,Yasins,yildirim,15,Student,4j231ads,sdja,dsa,Elementary School,Rejected
+indigentUser,yasin,12,2,2,2,2,2,No formal education,Approved
+indigent2User,mehmet,algul,1,1,1,1,1,No formal education,Approved
